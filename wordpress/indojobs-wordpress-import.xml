@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:wp="http://wordpress.org/export/1.2/">
+<channel>
+<title>Indo-Jobs GmbH</title>
+<link>https://example.com</link>
+<language>de-DE</language>
+
+<item>
+<title>Startseite</title>
+<link>https://example.com/startseite</link>
+<dc:creator><![CDATA[Indo-Jobs GmbH]]></dc:creator>
+<guid isPermaLink="false">https://example.com/?page_id=1</guid>
+<content:encoded><![CDATA[<h1>Faire Wege für Pflegekräfte aus Indien nach Deutschland</h1><p>Die Indo-Jobs GmbH vermittelt qualifizierte Pflegekräfte aus Indien an deutsche Pflegeeinrichtungen und Krankenhäuser.</p>]]></content:encoded>
+<wp:post_id>1</wp:post_id>
+<wp:post_type>page</wp:post_type>
+<wp:status>publish</wp:status>
+<wp:post_name>startseite</wp:post_name>
+</item>
+
+<item>
+<title>Über uns</title>
+<link>https://example.com/ueber-uns</link>
+<dc:creator><![CDATA[Indo-Jobs GmbH]]></dc:creator>
+<guid isPermaLink="false">https://example.com/?page_id=2</guid>
+<content:encoded><![CDATA[<h1>Über uns</h1><p>Wir verbinden Pflegeeinrichtungen in Deutschland mit qualifizierten Pflegekräften aus Indien.</p>]]></content:encoded>
+<wp:post_id>2</wp:post_id>
+<wp:post_type>page</wp:post_type>
+<wp:status>publish</wp:status>
+<wp:post_name>ueber-uns</wp:post_name>
+</item>
+
+<item>
+<title>Für Pflegeeinrichtungen</title>
+<link>https://example.com/pflegeeinrichtungen</link>
+<dc:creator><![CDATA[Indo-Jobs GmbH]]></dc:creator>
+<guid isPermaLink="false">https://example.com/?page_id=3</guid>
+<content:encoded><![CDATA[<h1>Für Pflegeeinrichtungen</h1><p>Internationale Pflegekräfte mit B2-Sprachkenntnissen und strukturierter Vorbereitung.</p>]]></content:encoded>
+<wp:post_id>3</wp:post_id>
+<wp:post_type>page</wp:post_type>
+<wp:status>publish</wp:status>
+<wp:post_name>pflegeeinrichtungen</wp:post_name>
+</item>
+
+<item>
+<title>Für Pflegekräfte</title>
+<link>https://example.com/pflegekraefte</link>
+<dc:creator><![CDATA[Indo-Jobs GmbH]]></dc:creator>
+<guid isPermaLink="false">https://example.com/?page_id=4</guid>
+<content:encoded><![CDATA[<h1>Für Pflegekräfte</h1><p>Unterstützung beim Weg nach Deutschland, vom Sprachkurs bis zur Integration.</p>]]></content:encoded>
+<wp:post_id>4</wp:post_id>
+<wp:post_type>page</wp:post_type>
+<wp:status>publish</wp:status>
+<wp:post_name>pflegekraefte</wp:post_name>
+</item>
+
+<item>
+<title>Ausbildung in Indien</title>
+<link>https://example.com/ausbildung-indien</link>
+<dc:creator><![CDATA[Indo-Jobs GmbH]]></dc:creator>
+<guid isPermaLink="false">https://example.com/?page_id=5</guid>
+<content:encoded><![CDATA[<h1>Ausbildung in Indien</h1><p>Deutschkurse bis B2 an der Theresienakademie in Kerala mit Prüfung über das Goethe-Institut in Kochi.</p>]]></content:encoded>
+<wp:post_id>5</wp:post_id>
+<wp:post_type>page</wp:post_type>
+<wp:status>publish</wp:status>
+<wp:post_name>ausbildung-indien</wp:post_name>
+</item>
+
+<item>
+<title>Ethical Recruiting</title>
+<link>https://example.com/ethical-recruiting</link>
+<dc:creator><![CDATA[Indo-Jobs GmbH]]></dc:creator>
+<guid isPermaLink="false">https://example.com/?page_id=6</guid>
+<content:encoded><![CDATA[<h1>Ethical Recruiting</h1><p>Faire Vermittlung ohne Vermittlungsgebühren für Pflegekräfte.</p>]]></content:encoded>
+<wp:post_id>6</wp:post_id>
+<wp:post_type>page</wp:post_type>
+<wp:status>publish</wp:status>
+<wp:post_name>ethical-recruiting</wp:post_name>
+</item>
+
+<item>
+<title>Team</title>
+<link>https://example.com/team</link>
+<dc:creator><![CDATA[Indo-Jobs GmbH]]></dc:creator>
+<guid isPermaLink="false">https://example.com/?page_id=7</guid>
+<content:encoded><![CDATA[<h1>Team</h1><p>Dr. Martin Lehner, Pater Augustin und Martina Giesübel.</p>]]></content:encoded>
+<wp:post_id>7</wp:post_id>
+<wp:post_type>page</wp:post_type>
+<wp:status>publish</wp:status>
+<wp:post_name>team</wp:post_name>
+</item>
+
+<item>
+<title>Kontakt</title>
+<link>https://example.com/kontakt</link>
+<dc:creator><![CDATA[Indo-Jobs GmbH]]></dc:creator>
+<guid isPermaLink="false">https://example.com/?page_id=8</guid>
+<content:encoded><![CDATA[<h1>Kontakt</h1><p>Kontaktieren Sie uns für Kooperationen und Bewerbungen.</p>]]></content:encoded>
+<wp:post_id>8</wp:post_id>
+<wp:post_type>page</wp:post_type>
+<wp:status>publish</wp:status>
+<wp:post_name>kontakt</wp:post_name>
+</item>
+
+</channel>
+</rss>
